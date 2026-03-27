@@ -3,7 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Stage: Beta](https://img.shields.io/badge/stage-beta-orange)]()
 
-Multi-ACE Pro integration for the Snapmaker U1 3D printer. Connect up to 4 Anycubic ACE Pro units for expanded filament management — auto-detected, hot-swappable, no reboot required.
+Multi-ACE Pro integration for the Snapmaker U1 3D printer. Connect up to 4 Anycubic ACE Pro units for expanded filament management - auto-detected, hot-swappable, no reboot required.
 
 > ⚠️ **Beta Software** — This project is in active development. Use at your own risk. While it has been tested successfully, it may cause unexpected behavior. Always backup your original files before installation. See [Installation Step 3](#3-backup-original-files).
 
