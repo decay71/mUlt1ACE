@@ -42,8 +42,8 @@ The ACE Pro connects to the Snapmaker U1 via USB using a Molex Micro-Fit 3.0 con
 ### What You Need
 
 - **1x Molex Micro-Fit 3.0 Male 2x3 connector with pre-crimped wires** ([AliExpress](https://de.aliexpress.com) - search for "Micro-Fit Molex MX3.0 43025 43020 Male 2x3 20AWG")
-- **1x USB Type-A breakout or USB extension cable** (to cut and strip) - [Amazon example](https://amzn.to/4bC72pK)
-- Alternatively: a screw terminal USB adapter - [Amazon example](https://amzn.to/4uZ61jo)
+
+- A screw terminal USB adapter - [Amazon example](https://amzn.to/4uZ61jo)
 
 ### Pinout
 
@@ -64,11 +64,10 @@ Refer to the [original SnapAce pinout diagram](https://github.com/BlackFrogKok/S
 
 ### Assembly
 
-1. Connect D-, D+, and GND from the Molex connector to D-, D+, and GND on the USB connector (screw terminal or stripped cable)
+1. Connect D-, D+, and GND from the Molex connector to D-, D+, and GND on the USB connector (screw terminal)
 2. **Twist D+ and D- wires together** (2-3 twists per cm) to reduce electromagnetic interference
-3. If using a cut USB cable: wrap the exposed section with aluminum foil overlapping the cable shield to maintain shielding
-4. Connect to the Snapmaker U1 via a USB extension cable
-5. Additional ACE Pro units connect via the **daisy chain** cable (included with ACE Pro) - no additional USB cables needed
+3. Connect to the Snapmaker U1 via a USB extension cable
+4. Additional ACE Pro units connect via the **daisy chain** cable (included with ACE Pro) - no additional USB cables needed
 
 ### Recommended Setup
 
