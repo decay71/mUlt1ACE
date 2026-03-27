@@ -5,6 +5,8 @@
 
 Multi-ACE Pro integration for the Snapmaker U1 3D printer. Connect up to 4 Anycubic ACE Pro units for expanded filament management — auto-detected, hot-swappable, no reboot required.
 
+> ⚠️ **Beta Software** — This project is in active development. Use at your own risk. While it has been tested successfully, it may cause unexpected behavior. Always backup your original files before installation. See [Installation Step 3](#3-backup-original-files).
+
 Based on [SnapAce by BlackFrogKok](https://github.com/BlackFrogKok/SnapAce).
 
 ## Features
@@ -294,8 +296,3 @@ If you find this project useful:
 - ⭐ Star this repository
 - 🐛 Report bugs via [Issues](../../issues)
 - 🤝 Pull requests welcome
-
-
-  <a href="https://ko-fi.com/Ko-fi.com/K3K610R4F9" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a>
-
-
