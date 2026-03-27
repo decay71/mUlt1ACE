@@ -51,11 +51,12 @@ Connect the following pins from the ACE Pro Molex connector to USB:
 
 ```
 ACE Pro Molex (2x3)          USB Type-A
-┌─────────────────┐
-│  1   2   3      │          Pin 1 (VCC)  - NOT CONNECTED
-│  4   5   6      │          Pin 2 (D-)   - ACE D-
-└─────────────────┘          Pin 3 (D+)   - ACE D+
-                             Pin 4 (GND)  - ACE GND
+
+┌──────|──|───────┐
+│  1   2   3      │          Pin 6 (VCC)  - NOT CONNECTED
+│  4   5   6      │          Pin 2 (D+)   - ACE D+
+└─────────────────┘          Pin 3 (D-)   - ACE D-
+                             Pin 5 (GND)  - ACE GND
 ```
 
 Refer to the [original SnapAce pinout diagram](https://github.com/BlackFrogKok/SnapAce/blob/main/.github/img/pinout.png) for the exact Molex pin positions.
