@@ -1,5 +1,7 @@
 # mUlt1ACE
 
+This rep has moved to https://github.com/decay71/multiACE
+
 ## What's new in 0.81b
 
 USB-level misbehaviour related to the ACE Pro's internal reset cycle could cause sporadic failures mid-print when switching between ACEs on every toolchange. This release works around it by keeping a single connection to the ACE that was active when the print started — the *start ACE* — and never disconnecting from it for the duration of the print.
